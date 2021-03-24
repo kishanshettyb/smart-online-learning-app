@@ -1,0 +1,86 @@
+export default [
+	{
+		id: "9",
+		courseTitle: "Web Designing Beginer Advanced Level  2021",
+		courseSubtitle: "10 courses",
+		cta: "CourseDetails",
+		courseImage: require("../assets/img/courses/webdesigning-1.jpeg"),
+		author: "James Jani",
+	},
+	{
+		id: "10",
+		courseTitle: "Digital Marketing & Social Media marketting",
+		courseSubtitle: "10 courses",
+		cta: "CourseDetails",
+		courseImage: require("../assets/img/courses/digital-marketting-1.jpeg"),
+		author: "James Jani",
+	},
+	{
+		id: "1",
+		courseTitle: "Master of Business Administration",
+		courseSubtitle: "30 courses",
+		cta: "CourseDetails",
+		courseImage: require("../assets/img/courses/mba.jpeg"),
+		author: "James Jani",
+	},
+	{
+		id: "2",
+		courseTitle:
+			"Medicine - Number of courses including those related to biomedical sciences,",
+		courseSubtitle: "10 courses",
+		cta: "CourseDetails",
+		courseImage: require("../assets/img/courses/medicine.jpeg"),
+		author: "James Jani",
+	},
+	{
+		id: "3",
+		courseTitle:
+			"Engineering -  Indian Institute of Technology (IIT) and other reputable institutes offer engineering courses that are valid worldwide.",
+		courseSubtitle: "10 courses",
+		cta: "CourseDetails",
+		courseImage: require("../assets/img/courses/engineering.jpeg"),
+		author: "James Jani",
+	},
+	{
+		id: "4",
+		courseTitle: "Web Designing Crash course 2021-22",
+		courseSubtitle: "30 courses",
+		cta: "CourseDetails",
+		courseImage: require("../assets/img/courses/webdesigning.jpeg"),
+		author: "James Jani",
+	},
+	{
+		id: "5",
+		courseTitle:
+			"Fashion Designing - The art of applying design, aesthetics, clothing construction and natural beauty to clothing and its accessories.",
+		courseSubtitle: "10 courses",
+		cta: "CourseDetails",
+		courseImage: require("../assets/img/courses/fashion.jpeg"),
+		author: "James Jani",
+	},
+	{
+		id: "6",
+		courseTitle: "Accounts & Finance - Grow your skill today",
+		courseSubtitle: "10 courses",
+		cta: "CourseDetails",
+		courseImage: require("../assets/img/courses/finance.jpeg"),
+		author: "James Jani",
+	},
+	{
+		id: "7",
+		courseTitle: "Law - Begin your LL.M. in Corporate & Financial Law",
+		courseSubtitle: "10 courses",
+		cta: "CourseDetails",
+		courseImage: require("../assets/img/courses/law.jpeg"),
+		author: "James Jani",
+	},
+	{
+		id: "8",
+		courseTitle:
+			"Interior Designing - 1 year Graduate Program in Interior Design",
+		courseSubtitle: "30 courses",
+		cta: "CourseDetails",
+		courseImage: require("../assets/img/courses/interior.jpeg"),
+		author: "James Jani",
+	},
+];
